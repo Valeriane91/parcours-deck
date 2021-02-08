@@ -1,3 +1,4 @@
+const dataMapper = require('../dataMapper.js');
 
 const searchController = {
   searchPage: (req, res) => {
